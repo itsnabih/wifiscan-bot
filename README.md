@@ -1,4 +1,4 @@
-### 📄 `README.md` untuk `wifiscan-bot`
+### 📄 `README.md`
 
 ````markdown
 # 🛡️ wifiscan-bot – CSIRT WiFi Scanner Bot 🤖
