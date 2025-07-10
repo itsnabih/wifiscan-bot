@@ -1,7 +1,3 @@
-Sip, Nabih! Dengan nama proyek dan repo **`wifiscan-bot`**, berikut adalah versi final dan rapi dari file **`README.md`** yang siap kamu gunakan langsung di GitHub.
-
----
-
 ### 📄 `README.md` untuk `wifiscan-bot`
 
 ````markdown
